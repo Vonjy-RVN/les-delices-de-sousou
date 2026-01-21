@@ -11,13 +11,13 @@ export default function NotFound() {
           Page non trouvée
         </h2>
         <p className="text-lg text-chocolate/70 mb-8 max-w-md mx-auto">
-          Désolé, la page que vous recherchez n'existe pas ou a été déplacée.
+          Désolé, la page que vous recherchez n&apos;existe pas ou a été déplacée.
         </p>
         <Link
           href="/"
           className="inline-block bg-gold text-white px-8 py-4 rounded-lg text-lg font-semibold hover:bg-gold/90 transition shadow-lg hover-lift"
         >
-          Retour à l'accueil
+          Retour à l&apos;accueil
         </Link>
       </div>
     </div>

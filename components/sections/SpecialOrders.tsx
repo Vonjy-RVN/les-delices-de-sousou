@@ -17,7 +17,7 @@ export default function SpecialOrders() {
           <div className="bg-white rounded-lg p-8 text-center hover-lift">
             <Cake className="mx-auto mb-4 text-rose" size={48} />
             <h3 className="text-xl font-serif font-bold text-chocolate mb-2">
-              Gâteaux d'anniversaire
+              Gâteaux d&apos;anniversaire
             </h3>
             <p className="text-chocolate/70">
               Des créations personnalisées pour célébrer en douceur
@@ -29,7 +29,7 @@ export default function SpecialOrders() {
               Mariages & Fêtes
             </h3>
             <p className="text-chocolate/70">
-              Des desserts d'exception pour vos événements mémorables
+              Des desserts d&apos;exception pour vos événements mémorables
             </p>
           </div>
           <div className="bg-white rounded-lg p-8 text-center hover-lift">

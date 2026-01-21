@@ -35,8 +35,8 @@ export default function MentionsLegalesPage() {
                 Hébergement
               </h2>
               <p>
-                [Nom de l'hébergeur]<br />
-                [Adresse de l'hébergeur]
+                [Nom de l&apos;hébergeur]<br />
+                [Adresse de l&apos;hébergeur]
               </p>
             </section>
 
@@ -45,7 +45,7 @@ export default function MentionsLegalesPage() {
                 Propriété intellectuelle
               </h2>
               <p>
-                L'ensemble de ce site relève de la législation française et internationale sur le droit d'auteur et la propriété intellectuelle.
+                L&apos;ensemble de ce site relève de la législation française et internationale sur le droit d&apos;auteur et la propriété intellectuelle.
                 Tous les droits de reproduction sont réservés, y compris pour les documents téléchargeables et les représentations iconographiques et photographiques.
               </p>
             </section>
@@ -55,8 +55,8 @@ export default function MentionsLegalesPage() {
                 Données personnelles
               </h2>
               <p>
-                Conformément à la loi "Informatique et Libertés" du 6 janvier 1978 modifiée et au Règlement Général sur la Protection des Données (RGPD),
-                vous disposez d'un droit d'accès, de rectification, de suppression et d'opposition aux données personnelles vous concernant.
+                Conformément à la loi &quot;Informatique et Libertés&quot; du 6 janvier 1978 modifiée et au Règlement Général sur la Protection des Données (RGPD),
+                vous disposez d&apos;un droit d&apos;accès, de rectification, de suppression et d&apos;opposition aux données personnelles vous concernant.
               </p>
             </section>
 
@@ -65,8 +65,8 @@ export default function MentionsLegalesPage() {
                 Cookies
               </h2>
               <p>
-                Ce site utilise des cookies pour améliorer l'expérience utilisateur et analyser le trafic du site.
-                En continuant à naviguer sur ce site, vous acceptez l'utilisation de cookies.
+                Ce site utilise des cookies pour améliorer l&apos;expérience utilisateur et analyser le trafic du site.
+                En continuant à naviguer sur ce site, vous acceptez l&apos;utilisation de cookies.
               </p>
             </section>
           </div>

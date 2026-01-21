@@ -14,7 +14,7 @@ export default function AProposPage() {
             
             <p className="leading-relaxed">
               Chaque création est réalisée avec passion, des ingrédients de qualité et un savoir-faire authentique.
-              Nous sélectionnons soigneusement nos matières premières pour vous offrir des produits d'exception.
+              Nous sélectionnons soigneusement nos matières premières pour vous offrir des produits d&apos;exception.
             </p>
             
             <h2 className="text-2xl font-serif font-bold text-chocolate mt-10 mb-4">
@@ -22,7 +22,7 @@ export default function AProposPage() {
             </h2>
             <p className="leading-relaxed">
               Depuis notre création, nous mettons tout notre cœur dans chaque gâteau, chaque tarte, chaque création.
-              Que ce soit pour un gâteau d'anniversaire, un dessert de mariage ou un buffet salé pour un événement professionnel,
+              Que ce soit pour un gâteau d&apos;anniversaire, un dessert de mariage ou un buffet salé pour un événement professionnel,
               nous adaptons nos créations à vos envies et à vos besoins.
             </p>
             
@@ -31,8 +31,8 @@ export default function AProposPage() {
             </h2>
             <p className="leading-relaxed">
               Qualité, fraîcheur et savoir-faire artisanal sont au cœur de notre métier.
-              Nous croyons que chaque moment mérite d'être célébré avec des produits d'exception,
-              c'est pourquoi nous mettons un soin particulier dans chaque détail de nos créations.
+              Nous croyons que chaque moment mérite d&apos;être célébré avec des produits d&apos;exception,
+              c&apos;est pourquoi nous mettons un soin particulier dans chaque détail de nos créations.
             </p>
             
             <h2 className="text-2xl font-serif font-bold text-chocolate mt-10 mb-4">
@@ -42,7 +42,7 @@ export default function AProposPage() {
               <li>Gâteaux traditionnels et modernes</li>
               <li>Salés prestige pour événements</li>
               <li>Commandes spéciales sur mesure</li>
-              <li>Gâteaux d'anniversaire personnalisés</li>
+              <li>Gâteaux d&apos;anniversaire personnalisés</li>
               <li>Desserts pour mariages et événements</li>
               <li>Buffets salés pour entreprises</li>
             </ul>
