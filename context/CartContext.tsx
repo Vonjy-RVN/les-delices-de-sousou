@@ -31,14 +31,24 @@ export function CartProvider({ children }: { children: React.ReactNode }) {
   const [cart, setCart] = useState<CartItem[]>([])
 
   useEffect(() => {
-    const savedCart = localStorage.getItem('cart')
-    if (savedCart) {
-      setCart(JSON.parse(savedCart))
+    // Vérifier que nous sommes côté client
+    if (typeof window !== 'undefined') {
+      const savedCart = localStorage.getItem('cart')
+      if (savedCart) {
+        try {
+          setCart(JSON.parse(savedCart))
+        } catch (error) {
+          console.error('Error parsing cart from localStorage:', error)
+        }
+      }
     }
   }, [])
 
   useEffect(() => {
-    localStorage.setItem('cart', JSON.stringify(cart))
+    // Vérifier que nous sommes côté client
+    if (typeof window !== 'undefined') {
+      localStorage.setItem('cart', JSON.stringify(cart))
+    }
   }, [cart])
 
   const addToCart = (product: Product) => {
